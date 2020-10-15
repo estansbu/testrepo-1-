@@ -1,0 +1,107 @@
+User is a member of group FHLBI-EC\Domain Users.
+User is a member of group \Everyone.
+User is a member of group BUILTIN\Users.
+User is a member of group NT AUTHORITY\INTERACTIVE.
+User is a member of group \CONSOLE LOGON.
+User is a member of group NT AUTHORITY\Authenticated Users.
+User is a member of group NT AUTHORITY\This Organization.
+User is a member of group NT AUTHORITY\LogonSessionId_0_114753336.
+User is a member of group \LOCAL.
+User is a member of group FHLBI-EC\Role_Enterprise-Risk-Management.
+User is a member of group FHLBI-EC\SP_CapitalRule_Visitors.
+User is a member of group FHLBI-EC\SP_EMT_Visitors.
+User is a member of group FHLBI-EC\SP_EnterpriseRiskManagement_Visitors.
+User is a member of group FHLBI-EC\SP_EUSDAPPS_Com_Contrib.
+User is a member of group FHLBI-EC\calypso_hudson_ts.
+User is a member of group FHLBI-EC\calypso_hudson_r.
+User is a member of group FHLBI-EC\SP_SecurityComplianceVisitors.
+User is a member of group FHLBI-EC\SP_MS_Project2010_Visitors.
+User is a member of group FHLBI-EC\SP_ITProjectPrioritization_Visitor.
+User is a member of group FHLBI-EC\APP_AdobeAcrobat_Users.
+User is a member of group FHLBI-EC\VDI_AppV_Writable_10g.
+User is a member of group FHLBI-EC\SP_OpExBlog_Visitors.
+User is a member of group FHLBI-EC\Credit_TRM_MPP-RO.
+User is a member of group FHLBI-EC\Credit_TRM_RO.
+User is a member of group FHLBI-EC\SP_Procurementplanning_VMO_Members.
+User is a member of group FHLBI-EC\bankstaff.
+User is a member of group FHLBI-EC\BO_CorporateRiskManagement.
+User is a member of group FHLBI-EC\SP_RiskComm_Visitor.
+User is a member of group FHLBI-EC\EUC_Operational Risk Management.
+User is a member of group FHLBI-EC\SP_Security_Visitors.
+User is a member of group FHLBI-EC\SPO_BusinessContinuity_Visitors.
+User is a member of group FHLBI-EC\calypso_prod_ts.
+User is a member of group FHLBI-EC\ERM_OPS_RISK.
+User is a member of group FHLBI-EC\SP_Home_Vistors.
+User is a member of group FHLBI-EC\Enterprise Risk Management.
+User is a member of group FHLBI-EC\SP_DTF_Visitors.
+User is a member of group FHLBI-EC\VPN_Users.
+User is a member of group FHLBI-EC\SP_BankComplianceGRC_Mbrs.
+User is a member of group FHLBI-EC\SP_Mktg_Visitors.
+User is a member of group FHLBI-EC\calypso_one_r.
+User is a member of group FHLBI-EC\SP_BusinessAnalysis_Visitor.
+User is a member of group FHLBI-EC\SP_BankCompliance_Visitor.
+User is a member of group FHLBI-EC\GitHub_Team_ERM_Contributor.
+User is a member of group FHLBI-EC\calypso_training_ts.
+User is a member of group FHLBI-EC\acl_erm_public_rw.
+User is a member of group FHLBI-EC\calypso_testint_ts.
+User is a member of group FHLBI-EC\Credit_Report_RO.
+User is a member of group FHLBI-EC\SP_BusinessContinuityMgmt_Visitors.
+User is a member of group FHLBI-EC\calypso_dev_ts.
+User is a member of group FHLBI-EC\SP_EnterpriseRiskManagement_Mbrs.
+User is a member of group FHLBI-EC\calypso_stage_ts.
+User is a member of group FHLBI-EC\calypso_one_ts.
+User is a member of group FHLBI-EC\SP_EUSDAPPS_Com_Visitors.
+User is a member of group FHLBI-EC\calypso_dw_ts.
+User is a member of group FHLBI-EC\SP_eNote_Visitors.
+User is a member of group FHLBI-EC\LighthouseModel_RW.
+User is a member of group FHLBI-EC\sp_EntRep_visitors.
+User is a member of group FHLBI-EC\calypso_gold_ts.
+User is a member of group FHLBI-EC\SP_PPWG_Visitors.
+User is a member of group FHLBI-EC\FSDApps_Risk_Mgmt_Rpt RO.
+User is a member of group FHLBI-EC\CIMCONTEST_RW.
+User is a member of group FHLBI-EC\calypso_testint2_ts.
+User is a member of group FHLBI-EC\SP_Accounting_Vistors.
+User is a member of group FHLBI-EC\CIMCON_ORMG.
+User is a member of group FHLBI-EC\calypso_build_ts.
+User is a member of group FHLBI-EC\All_Accounting.
+User is a member of group FHLBI-EC\All_FHLBI_Users.
+User is a member of group FHLBI-EC\ACL_EUC-Operational Risk Management_Edit.
+User is a member of group FHLBI-EC\APP_AdobeCC_Users.
+User is a member of group FHLBI-EC\SP_PMO_Mbrs.
+User is a member of group FHLBI-EC\VDI_App_Disallow-RSAT.
+User is a member of group FHLBI-EC\ORMG.
+User is a member of group FHLBI-EC\SPO_BusinessContinuity_ERM_Members.
+User is a member of group FHLBI-EC\VDI_AppV_Enterprise-Risk-Management.
+User is a member of group FHLBI-EC\Treasury Risk Management.
+User is a member of group FHLBI-EC\COMP_WWM-ERMMATLAB10_RDP.
+User is a member of group FHLBI-EC\sp_crm_mrmg_visitors.
+User is a member of group FHLBI-EC\VMPP Working Group.
+User is a member of group FHLBI-EC\SP_QA_Visitors.
+User is a member of group FHLBI-EC\SP_EA_Visitors.
+User is a member of group FHLBI-EC\SP_LIBOR_TransTF_Visitors.
+User is a member of group FHLBI-EC\VendorMgt_RO.
+User is a member of group FHLBI-EC\acl_erm_public_rwmd.
+User is a member of group FHLBI-EC\SPO_BusinessContinuity_Contributors.
+User is a member of group FHLBI-EC\ERM_RW.
+User is a member of group FHLBI-EC\ACL_EUC_Read.
+User is a member of group FHLBI-EC\SP_Policies_Visitors.
+User is a member of group FHLBI-EC\SP_PMO_Visitors.
+User is a member of group FHLBI-EC\calypso_test_ts.
+User is a member of group FHLBI-EC\SP_EnterpriseRiskManagement_Owners.
+User is a member of group FHLBI-EC\ACL_PA_Edit.
+User is a member of group FHLBI-EC\SP_CareCommittee_Mbrs.
+User is a member of group FHLBI-EC\SP_BOD_Visitors.
+User is a member of group FHLBI-EC\SP_OMWI_Visitors.
+User is a member of group FHLBI-EC\calypso_devint_ts.
+User is a member of group FHLBI-EC\SP_CRMRiskControl_Visitors.
+User is a member of group FHLBI-EC\SP_CRMRiskControl_Members.
+User is a member of group FHLBI-EC\SP_PolicyDev_Visitors.
+User is a member of group FHLBI-EC\SP_PolicyDev_Members.
+User is a member of group FHLBI-EC\sp_calypso_visitors.
+User is a member of group FHLBI-EC\calypso_sme_ts.
+User is a member of group FHLBI-EC\SP_EUSDAPPS_Com_Sitemaster.
+User is a member of group FHLBI-EC\calypso_hrm_ts.
+User is a member of group FHLBI-EC\SP_ITExceptionWaivers_Visitors.
+User is a member of group FHLBI-EC\SMB_examteam.
+User is a member of group \Authentication authority asserted identity.
+User is a member of group Mandatory Label\Medium Mandatory Level.
